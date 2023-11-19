@@ -1,2 +1,46 @@
 
 /* Your CSS Code here. */
+
+body{
+	padding: 10px;
+	margin:10px;	
+}
+div{
+	padding: 10px;
+	margin:10px;
+}
+.name input{
+	margin-left:95px;
+}
+.email input{
+	margin-left:95px;
+}
+.gender input{
+	margin-left:85px;
+}
+
+.brand select{
+	margin-left:75px;
+}
+
+.age input{
+	margin-left:120px;
+}
+
+.dob input{
+		margin-left:115px;
+}
+
+.pn input{
+	margin-left:55px;
+
+}
+
+.password input{
+	margin-left:90px;
+
+}
+button{
+	
+}
+
